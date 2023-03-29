@@ -1,2 +1,4 @@
 Hello I am using VIM.
 I am learing git and github.
+
+I have commited before but now i am changing this file once more. I want to see the power of git.
