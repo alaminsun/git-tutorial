@@ -1,1 +1,2 @@
-Some Text From Master
+Merge Conflict will Happen
+
